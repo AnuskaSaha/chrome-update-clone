@@ -12,7 +12,7 @@ hr{
     width:0.5px;
 }
 .hero{
-    width:100vw;
+    width:100%;
     /* background-color: blueviolet; */
     padding:2vw 0;
     border-bottom: 0.5px solid hsla(0, 0%, 100%, 0.484);
@@ -22,7 +22,7 @@ hr{
 .hero-bg{
     background-color: hsl(203, 100%, 23%);
     height:auto;
-    width:97vw;
+    width:95%;
     border-radius:1.3vw;
     margin:auto;
 }
